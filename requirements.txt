@@ -13,3 +13,4 @@ volcengine-python-sdk
 pypdf
 modelscope
 sentence-transformers
+rank_bm25
